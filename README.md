@@ -5,7 +5,7 @@
 
 - 💞️ I'm looking for cooperation with interesting and not so interesting projects)))
 - 📫 How to reach me:
-```telegram: intellegento```
+```telegram: t.me/intellegento```
 ```linkedIn: https://www.linkedin.com/in/g-shpreer/```
 
 
