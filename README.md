@@ -1,10 +1,25 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-<div align="center">
-  <img src="./me copy.png" width="100"/>
-  <h2>Hi there! I'm Gennadii</h2>
-</div>
-<div align="center">
+<style>
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+}
+</style>
+
+<div align="center" class="header">
+  <div>
+    <img src="./me copy.png" width="100"/>
+  </div>
+  <div class="contact">
+    <h2>Hi there! I'm Gennadii</h2>
+    <div>
     <a href="https://www.linkedin.com/in/g-shpreer/">
         <img src="./assets/icons8-linkedin-96.png" alt="linkedin" width="50">
     </a>
@@ -14,6 +29,8 @@
     <a href="mailto:intellegento@gmail.com">
         <img src="./assets/icons8-letter-96.png" alt="linkedin" width="50">
     </a>
+    </div>
+</div>
 </div>
 
 ---
