@@ -1,34 +1,19 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-<style>
-.header {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-}
-.contact {
-    display: flex;
-    flex-direction: column;
-    align-items: left;
-}
-</style>
-
-<div align="center" class="header">
-  <div>
+<div align="center">
     <img src="./me copy.png" width="100"/>
-  </div>
-  <div class="contact">
+  <div>
     <h2>Hi there! I'm Gennadii</h2>
     <div>
-    <a href="https://www.linkedin.com/in/g-shpreer/">
-        <img src="./assets/icons8-linkedin-96.png" alt="linkedin" width="50">
-    </a>
-    <a href="https://t.me/intellegento">
-        <img src="./assets/icons8-telegram-96.png" alt="linkedin" width="50">
-    </a>
-    <a href="mailto:intellegento@gmail.com">
-        <img src="./assets/icons8-letter-96.png" alt="linkedin" width="50">
-    </a>
+        <a href="https://www.linkedin.com/in/g-shpreer/">
+            <img src="./assets/icons8-linkedin-96.png" alt="linkedin" width="50">
+        </a>
+        <a href="https://t.me/intellegento">
+            <img src="./assets/icons8-telegram-96.png" alt="linkedin" width="50">
+        </a>
+        <a href="mailto:intellegento@gmail.com">
+            <img src="./assets/icons8-letter-96.png" alt="linkedin" width="50">
+        </a>
     </div>
 </div>
 </div>
@@ -53,5 +38,3 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstarp" alt="Bootstarp" width="40" height="40"/>&nbsp;
 
 </div>
-
-
