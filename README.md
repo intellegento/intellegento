@@ -40,3 +40,5 @@
 </div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=intellegento&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=intellegento&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=intellegento&theme=algolia)
