@@ -4,8 +4,10 @@
   <div>
     <h2>Hi there! I'm Gennadii</h2>
       <p>Frontend developer</p>
+      <br>
+      <br>
+       <p>Contacts:</p>
     <div>
-        <p>Contacts:
         <a href="https://www.linkedin.com/in/g-shpreer/">
             <img src="./assets/icons8-linkedin-96.png" alt="linkedin" width="50">
         </a>
