@@ -3,6 +3,7 @@
     <img src="./me copy.png" width="100"/>
   <div>
     <h2>Hi there! I'm Gennadii</h2>
+      <p>Frontend developer</p>
     <div>
         <a href="https://www.linkedin.com/in/g-shpreer/">
             <img src="./assets/icons8-linkedin-96.png" alt="linkedin" width="50">
