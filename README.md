@@ -5,7 +5,6 @@
     <h2>Hi there! I'm Gennadii</h2>
       <p>Frontend developer</p>
       <br>
-      <br>
        <p>Contacts:</p>
     <div>
         <a href="https://www.linkedin.com/in/g-shpreer/">
