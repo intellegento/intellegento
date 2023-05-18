@@ -40,6 +40,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstarp" alt="Bootstarp" width="40" height="40"/>&nbsp;
 </div>
 
+---
 ### :hammer_and_wrench: Stat :
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=intellegento&theme=algolia)
