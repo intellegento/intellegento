@@ -42,3 +42,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=intellegento&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=intellegento&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=intellegento&theme=algolia)
+
+
+<h1 align="center">CONTRIBUTION GRAPH</h1> 
+<img src="https://github.com/intellegento/intellegento/blob/output/github-contribution-grid-snake.svg" alt="snake-graph" style="display: block;width: 150%;"/>
