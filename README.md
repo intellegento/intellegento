@@ -60,4 +60,8 @@
 
 
 <h1 align="center">CONTRIBUTION GRAPH</h1> 
-<img src="https://github.com/intellegento/intellegento/blob/output/github-contribution-grid-snake.svg" alt="snake-graph" style="display: block;width: 150%;"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inteellegento/intellegento/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/intellegento/intellegento/output/github-contribution-grid-snake.svg">
+</picture>
