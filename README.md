@@ -1,8 +1,10 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <div align="center">
     <img src="./me copy.png" width="100"/>
+     
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Gennadii;+Welcome+to+My+Profile!;Over+2.5+years+of+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
+
   <div>
-    <h2>Hi there! I'm Gennadii</h2>
       <p>Frontend developer</p>
       <br>
        <p>Contacts:</p>
@@ -46,10 +48,10 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=intellegento&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<!-- # 📊 GitHub Stats: -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=intellegento&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=intellegento&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=intellegento&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=intellegento&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 
 ### :hammer_and_wrench: Stat :
