@@ -54,7 +54,7 @@
 </div>
 ---
 
-##№ GitHub Trophies
+### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=intellegento&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
@@ -65,7 +65,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=intellegento&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 
-### :hammer_and_wrench: Stat :
+### Stat :
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=intellegento&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=intellegento&theme=algolia)
