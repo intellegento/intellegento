@@ -24,7 +24,7 @@
 
 ---
 
-### :chart_with_upwards_trend: CONTRIBUTION GRAPH :
+### CONTRIBUTION GRAPH :
 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/intellegento/intellegento/output/github-contribution-grid-snake-dark.svg">
