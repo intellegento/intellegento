@@ -34,7 +34,7 @@
 
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 
 <div>
@@ -54,7 +54,7 @@
 </div>
 ---
 
-## 🏆 GitHub Trophies
+##№ GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=intellegento&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
